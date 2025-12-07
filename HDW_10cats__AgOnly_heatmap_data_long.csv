@@ -1,0 +1,171 @@
+Region,Sector,Value
+USA,Agriculture,0.0
+EU-15,Agriculture,0.0
+EU-27,Agriculture,0.05439922636788977
+Europe_Non_EU,Agriculture,0.0
+Japan,Agriculture,3.4572719203938864
+China,Agriculture,2.633562582081929
+India,Agriculture,5.944642208105694
+South Korea,Agriculture,5.456296024134234
+Canada,Agriculture,0.0
+Australia_NZ,Agriculture,0.0
+Mexico,Agriculture,0.0
+Russia,Agriculture,0.0
+Brazil,Agriculture,5.43191650667654
+South Africa,Agriculture,4.08143541216011
+Argentina,Agriculture,3.191930013298844
+Indonesia,Agriculture,7.13983561546052
+Other,Agriculture,5.437055982018189
+USA,Mining,0.0
+EU-15,Mining,0.0
+EU-27,Mining,0.021326710220743544
+Europe_Non_EU,Mining,0.0
+Japan,Mining,0.44519367151638184
+China,Mining,0.536951272139733
+India,Mining,1.6857892990763625
+South Korea,Mining,0.341034595399284
+Canada,Mining,0.0
+Australia_NZ,Mining,0.0
+Mexico,Mining,0.0
+Russia,Mining,0.0
+Brazil,Mining,0.957885192340239
+South Africa,Mining,0.12637907151778774
+Argentina,Mining,0.24199594075398798
+Indonesia,Mining,2.2167394664298348
+Other,Mining,0.7323949314206333
+USA,Consumer Goods,0.0
+EU-15,Consumer Goods,0.0
+EU-27,Consumer Goods,0.0
+Europe_Non_EU,Consumer Goods,0.0
+Japan,Consumer Goods,0.0
+China,Consumer Goods,0.0
+India,Consumer Goods,0.0
+South Korea,Consumer Goods,0.0
+Canada,Consumer Goods,0.0
+Australia_NZ,Consumer Goods,0.0
+Mexico,Consumer Goods,0.0
+Russia,Consumer Goods,0.0
+Brazil,Consumer Goods,0.0
+South Africa,Consumer Goods,0.0
+Argentina,Consumer Goods,0.0
+Indonesia,Consumer Goods,0.0
+Other,Consumer Goods,0.0
+USA,Heavy Industries,0.0
+EU-15,Heavy Industries,0.0
+EU-27,Heavy Industries,9.823695002697001e-05
+Europe_Non_EU,Heavy Industries,0.0
+Japan,Heavy Industries,0.2649282864065568
+China,Heavy Industries,0.12353172934196269
+India,Heavy Industries,0.16928831792666724
+South Korea,Heavy Industries,0.516429111531921
+Canada,Heavy Industries,0.0
+Australia_NZ,Heavy Industries,0.0
+Mexico,Heavy Industries,0.0
+Russia,Heavy Industries,0.0
+Brazil,Heavy Industries,0.15724135739948533
+South Africa,Heavy Industries,0.22606658131656363
+Argentina,Heavy Industries,0.13383572069754668
+Indonesia,Heavy Industries,0.14361201935460172
+Other,Heavy Industries,0.37886090032447994
+USA,Equipment Goods,0.0
+EU-15,Equipment Goods,0.0
+EU-27,Equipment Goods,3.43829325094395e-05
+Europe_Non_EU,Equipment Goods,0.0
+Japan,Equipment Goods,0.09272490024229488
+China,Equipment Goods,0.043236105269686936
+India,Equipment Goods,0.05925091127433354
+South Korea,Equipment Goods,0.18075018903617232
+Canada,Equipment Goods,0.0
+Australia_NZ,Equipment Goods,0.0
+Mexico,Equipment Goods,0.0
+Russia,Equipment Goods,0.0
+Brazil,Equipment Goods,0.055034475089819866
+South Africa,Equipment Goods,0.07912330346079727
+Argentina,Equipment Goods,0.04684250224414133
+Indonesia,Equipment Goods,0.0502642067741106
+Other,Equipment Goods,0.13260131511356799
+USA,Electricity production,0.0
+EU-15,Electricity production,0.0
+EU-27,Electricity production,0.0001069721429174173
+Europe_Non_EU,Electricity production,0.0
+Japan,Electricity production,0.21949792883082184
+China,Electricity production,0.1261180580281202
+India,Electricity production,0.1681196677335521
+South Korea,Electricity production,0.43194501825220794
+Canada,Electricity production,0.0
+Australia_NZ,Electricity production,0.0
+Mexico,Electricity production,0.0
+Russia,Electricity production,0.0
+Brazil,Electricity production,0.3277747730392331
+South Africa,Electricity production,0.3991096590300121
+Argentina,Electricity production,0.2792044845402372
+Indonesia,Electricity production,0.15824896274357156
+Other,Electricity production,0.344327361673614
+USA,Construction,0.0
+EU-15,Construction,0.0
+EU-27,Construction,0.10684528473184789
+Europe_Non_EU,Construction,0.0
+Japan,Construction,2.2508253313501907
+China,Construction,2.884524042189566
+India,Construction,8.665397865010442
+South Korea,Construction,1.7858800462415492
+Canada,Construction,0.0
+Australia_NZ,Construction,0.0
+Mexico,Construction,0.0
+Russia,Construction,0.0
+Brazil,Construction,6.367700527852616
+South Africa,Construction,2.3299302470923626
+Argentina,Construction,2.555063428814762
+Indonesia,Construction,11.408010023180683
+Other,Construction,3.938458643949202
+USA,Transport,0.0
+EU-15,Transport,0.0
+EU-27,Transport,7.429250109831276e-05
+Europe_Non_EU,Transport,0.0
+Japan,Transport,0.008721745181853112
+China,Transport,0.07009392333014056
+India,Transport,0.08296539285214934
+South Korea,Transport,0.028318269910571445
+Canada,Transport,0.0
+Australia_NZ,Transport,0.0
+Mexico,Transport,0.0
+Russia,Transport,0.0
+Brazil,Transport,0.5537805495268149
+South Africa,Transport,0.5958017156152363
+Argentina,Transport,0.471959201770113
+Indonesia,Transport,0.11379392667772256
+Other,Transport,0.09701192520913512
+USA,Warehousing,0.0
+EU-15,Warehousing,0.0
+EU-27,Warehousing,0.0002228775032949383
+Europe_Non_EU,Warehousing,0.0
+Japan,Warehousing,0.026165235545559332
+China,Warehousing,0.21028176999042167
+India,Warehousing,0.248896178556448
+South Korea,Warehousing,0.08495480973171433
+Canada,Warehousing,0.0
+Australia_NZ,Warehousing,0.0
+Mexico,Warehousing,0.0
+Russia,Warehousing,0.0
+Brazil,Warehousing,1.6613416485804446
+South Africa,Warehousing,1.7874051468457088
+Argentina,Warehousing,1.415877605310339
+Indonesia,Warehousing,0.3413817800331677
+Other,Warehousing,0.2910357756274054
+USA,Services,0.0
+EU-15,Services,0.0
+EU-27,Services,0.003703036705653881
+Europe_Non_EU,Services,0.0
+Japan,Services,0.09164243561643656
+China,Services,0.22967972535023656
+India,Services,0.4468956688836925
+South Korea,Services,0.1134756390543569
+Canada,Services,0.0
+Australia_NZ,Services,0.0
+Mexico,Services,0.0
+Russia,Services,0.0
+Brazil,Services,1.267208631110336
+South Africa,Services,1.2126666098167704
+Argentina,Services,0.9842510603325574
+Indonesia,Services,0.5970444310937509
+Other,Services,0.31608967232170915

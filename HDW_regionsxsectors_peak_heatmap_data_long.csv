@@ -1,0 +1,171 @@
+Region,Sector,Value
+USA,Power Supply,2.093481209237556
+EU-15,Power Supply,1.4064839045071815
+EU-27,Power Supply,1.7454866662548338
+Europe_Non_EU,Power Supply,1.896275436428606
+Japan,Power Supply,0.144601358089929
+China,Power Supply,0.718061761344712
+India,Power Supply,0.982732963300578
+South Korea,Power Supply,0.445420686644958
+Canada,Power Supply,0.37052385731773696
+Australia_NZ,Power Supply,1.883094781858492
+Mexico,Power Supply,1.665043774228863
+Russia,Power Supply,0.422451773362124
+Brazil,Power Supply,5.2414535287897674
+South Africa,Power Supply,5.969798133619246
+Argentina,Power Supply,4.754487388307826
+Indonesia,Power Supply,1.515137695857765
+Other,Power Supply,1.0738902806273736
+USA,Ferrous metals,1.333597908108735
+EU-15,Ferrous metals,3.5063630523430858
+EU-27,Ferrous metals,3.9715950946768865
+Europe_Non_EU,Ferrous metals,9.871051703734354
+Japan,Ferrous metals,2.690857459508432
+China,Ferrous metals,1.139783329971546
+India,Ferrous metals,1.884627479790509
+South Korea,Ferrous metals,4.810905267043431
+Canada,Ferrous metals,0.8027276266962161
+Australia_NZ,Ferrous metals,2.000871802728553
+Mexico,Ferrous metals,2.204275493404692
+Russia,Ferrous metals,0.690846488927612
+Brazil,Ferrous metals,1.682900990602803
+South Africa,Ferrous metals,2.403364497986061
+Argentina,Ferrous metals,1.387765120739339
+Indonesia,Ferrous metals,1.443105526210264
+Other,Ferrous metals,4.07652920480216
+USA,Non-metallic minerals,0.0
+EU-15,Non-metallic minerals,0.0
+EU-27,Non-metallic minerals,0.0
+Europe_Non_EU,Non-metallic minerals,0.0
+Japan,Non-metallic minerals,0.0
+China,Non-metallic minerals,0.0
+India,Non-metallic minerals,0.0
+South Korea,Non-metallic minerals,0.0
+Canada,Non-metallic minerals,0.0
+Australia_NZ,Non-metallic minerals,0.0
+Mexico,Non-metallic minerals,0.0
+Russia,Non-metallic minerals,0.0
+Brazil,Non-metallic minerals,0.0
+South Africa,Non-metallic minerals,0.0
+Argentina,Non-metallic minerals,0.0
+Indonesia,Non-metallic minerals,0.0
+Other,Non-metallic minerals,0.0
+USA,Construction,6.834959864613282
+EU-15,Construction,2.408676523344638
+EU-27,Construction,3.4640172578724595
+Europe_Non_EU,Construction,3.0151649965136773
+Japan,Construction,7.483051767789137
+China,Construction,9.196319578046852
+India,Construction,27.22168880278814
+South Korea,Construction,6.2493607261777555
+Canada,Construction,1.357700128926734
+Australia_NZ,Construction,4.035631374566342
+Mexico,Construction,8.973225598439738
+Russia,Construction,1.1667019044397602
+Brazil,Construction,20.41392851736336
+South Africa,Construction,7.786258594835935
+Argentina,Construction,8.615843719619164
+Indonesia,Construction,35.87543242428618
+Other,Construction,12.773876586728619
+USA,Land transport,2.093481209237556
+EU-15,Land transport,1.4064839045071815
+EU-27,Land transport,1.7454866662548338
+Europe_Non_EU,Land transport,1.896275436428606
+Japan,Land transport,0.144601358089929
+China,Land transport,0.718061761344712
+India,Land transport,0.982732963300578
+South Korea,Land transport,0.445420686644958
+Canada,Land transport,0.37052385731773696
+Australia_NZ,Land transport,1.883094781858492
+Mexico,Land transport,1.665043774228863
+Russia,Land transport,0.422451773362124
+Brazil,Land transport,5.2414535287897674
+South Africa,Land transport,5.969798133619246
+Argentina,Land transport,4.754487388307826
+Indonesia,Land transport,1.515137695857765
+Other,Land transport,1.0738902806273736
+USA,Water transport,0.0
+EU-15,Water transport,0.0
+EU-27,Water transport,0.0
+Europe_Non_EU,Water transport,0.0
+Japan,Water transport,0.0
+China,Water transport,0.0
+India,Water transport,0.0
+South Korea,Water transport,0.0
+Canada,Water transport,0.0
+Australia_NZ,Water transport,0.0
+Mexico,Water transport,0.0
+Russia,Water transport,0.0
+Brazil,Water transport,0.0
+South Africa,Water transport,0.0
+Argentina,Water transport,0.0
+Indonesia,Water transport,0.0
+Other,Water transport,0.0
+USA,Warehousing,2.093481209237556
+EU-15,Warehousing,1.4064839045071815
+EU-27,Warehousing,1.7454866662548338
+Europe_Non_EU,Warehousing,1.896275436428606
+Japan,Warehousing,0.144601358089929
+China,Warehousing,0.718061761344712
+India,Warehousing,0.982732963300578
+South Korea,Warehousing,0.445420686644958
+Canada,Warehousing,0.37052385731773696
+Australia_NZ,Warehousing,1.883094781858492
+Mexico,Warehousing,1.665043774228863
+Russia,Warehousing,0.422451773362124
+Brazil,Warehousing,5.2414535287897674
+South Africa,Warehousing,5.969798133619246
+Argentina,Warehousing,4.754487388307826
+Indonesia,Warehousing,1.515137695857765
+Other,Warehousing,1.0738902806273736
+USA,Agriculture,11.184547107700034
+EU-15,Agriculture,19.47455757325402
+EU-27,Agriculture,22.506364602104455
+Europe_Non_EU,Agriculture,51.85838562105362
+Japan,Agriculture,17.27172889443394
+China,Agriculture,10.674058863587133
+India,Agriculture,23.549916606079414
+South Korea,Agriculture,27.413052558794632
+Canada,Agriculture,4.887013223036261
+Australia_NZ,Agriculture,13.01079946140165
+Mexico,Agriculture,16.38213824771348
+Russia,Agriculture,4.2593705778730575
+Brazil,Agriculture,21.37323231431033
+South Africa,Agriculture,19.044095807498383
+Argentina,Agriculture,13.742853342367889
+Indonesia,Agriculture,25.948691133519734
+Other,Agriculture,27.333376714704478
+USA,Market Services,2.578096480821316
+EU-15,Market Services,1.5137355859134627
+EU-27,Market Services,1.9260671587478702
+Europe_Non_EU,Market Services,2.017645769619255
+Japan,Market Services,0.8791694058502991
+China,Market Services,1.5694778518216492
+India,Market Services,3.611542212065836
+South Korea,Market Services,1.0280417940314621
+Canada,Market Services,0.471094103765225
+Australia_NZ,Market Services,2.107763915038569
+Mexico,Market Services,2.404187175521094
+Russia,Market Services,0.49898904533669797
+Brazil,Market Services,6.784908295291076
+South Africa,Market Services,6.1812931704090115
+Argentina,Market Services,5.164395458380499
+Indonesia,Market Services,4.958742857179894
+Other,Market Services,2.249258362640635
+USA,Non Market Services,2.093481209237556
+EU-15,Non Market Services,1.4064839045071815
+EU-27,Non Market Services,1.7454866662548338
+Europe_Non_EU,Non Market Services,1.896275436428606
+Japan,Non Market Services,0.144601358089929
+China,Non Market Services,0.718061761344712
+India,Non Market Services,0.982732963300578
+South Korea,Non Market Services,0.445420686644958
+Canada,Non Market Services,0.37052385731773696
+Australia_NZ,Non Market Services,1.883094781858492
+Mexico,Non Market Services,1.665043774228863
+Russia,Non Market Services,0.422451773362124
+Brazil,Non Market Services,5.2414535287897674
+South Africa,Non Market Services,5.969798133619246
+Argentina,Non Market Services,4.754487388307826
+Indonesia,Non Market Services,1.515137695857765
+Other,Non Market Services,1.0738902806273736

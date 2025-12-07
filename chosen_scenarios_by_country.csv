@@ -1,0 +1,47 @@
+country,chosen_daps
+Argentina,DAPS_SAM
+Austria,DAPS_EUR
+Belgium,DAPS_EUR
+Brazil,DAPS_SAM
+Bulgaria,DAPS_EUR
+Canada,DAPS_NAM
+China,DAPS_ASIA
+Croatia,DAPS_EUR
+Cyprus,DAPS_EUR
+Czechia,DAPS_EUR
+Denmark,DAPS_EUR
+Estonia,DAPS_EUR
+Finland,DAPS_EUR
+France,DAPS_EUR
+Germany,DAPS_EUR
+Greece,DAPS_EUR
+Hungary,DAPS_EUR
+India,DAPS_ASIA
+Indonesia,DAPS_ASIA
+Ireland,DAPS_EUR
+Italy,DAPS_EUR
+Japan,DAPS_ASIA
+Latvia,DAPS_EUR
+Lithuania,DAPS_EUR
+Luxembourg,DAPS_EUR
+Malta,DAPS_EUR
+Mexico,DAPS_SAM
+Netherlands,DAPS_EUR
+Oceania,DAPS_ASIA
+Poland,DAPS_EUR
+Portugal,DAPS_EUR
+Rest of Energy Producing Countries,DAPS_ASIA
+Rest of Europe,DAPS_ASIA
+Rest of World,DAPS_ASIA
+Romania,DAPS_EUR
+Russia,DAPS_ASIA
+Saudi Arabia,DAPS_ASIA
+Slovakia,DAPS_EUR
+Slovenia,DAPS_EUR
+South Africa,DAPS_AFR_R
+South Korea,DAPS_ASIA
+Spain,DAPS_EUR
+Sweden,DAPS_EUR
+Turkey,DAPS_ASIA
+USA,DAPS_ASIA
+United Kingdom,DAPS_EUR

@@ -1,0 +1,15 @@
+# Project-wide locations
+data_root: .          # keep inputs in the project root (as you requested)
+outputs_root: outputs
+
+# Default input files (yours with the green dot)
+default_inputs:
+  emissions_xlsx: NGFS_GCAM_Carbon_Emissions_Sectors.xlsx
+  prices_xlsx: NGFS_GCAM_Price_Carbons.xlsx
+  prices_by_sector_xlsx: NGFS_GCAM_Price_Carbons_Demand_Price_Per_Sectors.xlsx
+  shortterm_timeseries_xlsx: NGFS_shortterm_FULL_timeseries.xlsx
+  region_stats_summary_xlsx: NGFS_region_stats_summary.xlsx
+  region_stats_additions_xlsx: NGFS_region_stats_additions.xlsx
+  country_to_macro_region_csv: country_to_macro_region.csv
+  chosen_scenarios_by_country_csv: chosen_scenarios_by_country.csv
+  stats_report_pdf: NGFS_stats_report_clean.pdf
